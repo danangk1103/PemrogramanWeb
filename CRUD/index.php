@@ -28,9 +28,9 @@ $result = mysqli_query($koneksi, "SELECT * FROM mahasiswa ORDER BY id_mahasiswa 
 				<td><?=$item['mobile'];?></td>
 				<td><?=$item['email'];?></td>
 				<td>
-					<a href="edit.php?id_mahasiswa=<?=$item['id_mahasiswa'];?>">Edit</a>
-					<a href="delete.php?id_mahasiswa=<?=$item['id_mahasiswa'];?>" onclick="return
-					confirm('Apakah Anda yakin akan menghapus data?')">Delete</a>
+					<a href="edit.php?id_mahasiswa=<?=$item['id_mahasiswa']?>">Edit</a>
+					<a onclick="return confirm('Apakah Anda yakin akan menghapus data?')"
+					href="delete.php?id_mahasiswa=<?=$item['id_mahasiswa']?>">Delete</a>
 				</td>
 			</tr>
 		<?php } ?>
