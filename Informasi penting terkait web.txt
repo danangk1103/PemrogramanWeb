@@ -1,0 +1,23 @@
+Domain website:  ultramanjowohotel.lovestoblog.com
+
+Cpanel Username: epiz_33243780
+Cpanel Password:  n151QCQstYtGx 
+FTP Server : ftpupload.net
+FTP Login : epiz_33243780
+FTP Password :  n151QCQstYtGx 
+MySQL Database Name: epiz_33243780_ujhotel
+MySQL Username : b31_33208877
+MySQL Password :  n151QCQstYtGx 
+MySQL Server: sql210.epizy.com
+
+
+Cpanel URL: https://cpanel.epizy.com/
+
+login administrator
+Database Name : - ujhotel.sql
+user name : - danangk1103
+password  : - k3521016
+
+link download template website : https://download-media.code-projects.org/2019/10/HOTEL_MANAGEMENT_SYSTEM_IN_PHP_WITH_SOURCE_CODE.zip
+
+*ps = mohon maaf pak sistem web yang saya buat ATM (ambil, tiru, modifikasi) tidak pure dari nol
